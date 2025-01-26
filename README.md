@@ -1,4 +1,4 @@
 # SwiftPractices
 Practicing Swift
 
-PokemonClasses.swift was for practicing classes, subclasses/inheritance
+[PokemonClasses.swift](https://github.com/inewins/SwiftPractices/blob/main/PokemonClasses.swift) was for practicing classes, subclasses/inheritance
